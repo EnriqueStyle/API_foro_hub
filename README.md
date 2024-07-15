@@ -27,11 +27,11 @@ Foro Hub API es una aplicación basada en Spring Boot que proporciona funcionali
 - **Buscar por id**
 ## Algunos Ejemplos.
 
-![Login]()
+![Login](https://github.com/EnriqueStyle/API_foro_hub/blob/main/img/login.PNG)
 
-![Registro]()
+![Registro](https://github.com/EnriqueStyle/API_foro_hub/blob/main/img/registroTopico.PNG)
 
-![Base de Datos]()
+![Base de Datos](https://github.com/EnriqueStyle/API_foro_hub/blob/main/img/baseDeDatos.PNG)
 
 ## Creador
 
