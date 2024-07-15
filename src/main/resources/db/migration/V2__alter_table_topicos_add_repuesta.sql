@@ -1,0 +1,1 @@
+alter table topicos add sin_respuesta BOOLEAN DEFAULT TRUE;
